@@ -1,4 +1,4 @@
-# MongoDb-Aggregate-String-Operators
+# MongoDb-Aggregation-Framework-Part-2
 
 ## This repository is how to use in string operators via aggregation framework in MongoDb.
 
